@@ -9,7 +9,7 @@
 
 - 📖 Readings:
         <ul>
-        <li> <img src="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" alt="Grokking Algorithms"> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms</a>
+        <li> <img src="[https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624314734i/58394297.jpg)" alt="Grokking Algorithms"> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms</a>
         </ul>
 
 - 💬 Ask me about **anything**
