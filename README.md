@@ -16,7 +16,7 @@
       -  <a href="https://www.goodreads.com/book/show/10361330-html-and-css" target ="blank">HTML and CSS: Design and Build Websites </a>(by Jon Duckett)
       - <a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms" target ="blank">Introduction to Algorithms </a>(by Thomas H. Cormen
 ) (ongoning..)
-        <li> <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript" target ="blank">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
+        - <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript" target ="blank">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
         
 
 - 💬 Ask me about **anything**
