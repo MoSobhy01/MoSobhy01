@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Sobhy</h1>
+![Header](./Header.png)
+
 <h3 align="center">A self-motivated, highly passionate and hardworking Computer Engineering student seeking knowledge in various tracks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosobhy01&label=Profile%20views&color=0e75b6&style=flat" alt="mosobhy01" /> </p>
