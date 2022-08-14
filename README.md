@@ -1,4 +1,4 @@
-![Header](./Header.png)
+![Header](./Header1.png)
 
 <h3 align="center">A self-motivated, highly passionate and hardworking Computer Engineering student seeking knowledge in various tracks.</h3>
 
