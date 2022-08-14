@@ -1,10 +1,10 @@
 ![Header](./Header1.png)
-<p align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="GIF" > </p>
+<p align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="360" alt="GIF" > </p>
+
 <h3 align="center">A self-motivated, highly passionate and hardworking Computer Engineering student seeking knowledge in various tracks.</h3>
 <p>My name is Mahmoud Sobhy. I am in my 2<sup>nd</sup> grade in computer engineering major. I'm passionate towards computer science and gaining knowledge in it. I'm currently studying Web Development (on my own). I'm also passionate towards Competitive Programming and enhacing my problem solving skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosobhy01&label=Profile%20views&color=0e75b6&style=flat" alt="mosobhy01" /> </p>
-<p align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="GIF" align ="right" > </p>
 
 - 🌱 I’m currently learning **Web development and DS & algorithms**
 
