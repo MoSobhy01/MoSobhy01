@@ -9,11 +9,13 @@
 
 - 📖 Readings:
         <ul>
-        <li> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a>
+        <li> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a> (by Aditya Y. Bhargava
+)
         <li><a href="https://www.goodreads.com/book/show/289360.Data_Structures_Using_C_" target ="blank">Data Structure </a>(by D.S Malik)
         <li><a href="https://www.goodreads.com/book/show/22820968-competitive-programming-3" target ="blank">Competitive Programming 1,2,3 </a> (by Steven Halim, Felix Halim)
         <li><a href="https://www.goodreads.com/book/show/10361330-html-and-css" target ="blank">HTML and CSS: Design and Build Websites </a>(by Jon Duckett)
-        <li><a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms" target ="blank">Introduction to Algorithms </a> (ongoning..)
+        <li><a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms" target ="blank">Introduction to Algorithms </a>(by Thomas H. Cormen
+) (ongoning..)
         <li> <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript" target ="blank">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
         </ul>
 
