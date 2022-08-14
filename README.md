@@ -9,7 +9,7 @@
 
 - 📖 Readings:
         <ul>
-        - <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a> (by Aditya Y. Bhargava
+        <li><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458747997i/22847284.jpg" alt ="Book" width="50" height="100"> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a> (by Aditya Y. Bhargava
 )
         <li> <a href="https://www.goodreads.com/book/show/289360.Data_Structures_Using_C_" target ="blank">Data Structure </a>(by D.S Malik)
        <li ><a href="https://www.goodreads.com/book/show/22820968-competitive-programming-3" target ="blank">Competitive Programming 1,2,3 </a> (by Steven Halim, Felix Halim)
