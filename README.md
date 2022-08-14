@@ -3,9 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosobhy01&label=Profile%20views&color=0e75b6&style=flat" alt="mosobhy01" /> </p>
 
-- 🌱 I’m currently learning **Front-End development**
+- 🌱 I’m currently learning **Web development and DS & algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoSobhy01](https://github.com/MoSobhy01)
+
+- 📖 Readings:
+        <ul>
+        <li> <img src="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" alt="Grokking Algorithms"> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms</a>
+        </ul>
 
 - 💬 Ask me about **anything**
 
