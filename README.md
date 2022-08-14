@@ -9,12 +9,12 @@
 
 - 📖 Readings:
         <ul>
-        <li> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">Grokking Algorithms</a>
-        <li><a href="https://www.goodreads.com/book/show/289360.Data_Structures_Using_C_">Data Structure </a>(by D.S Malik)
-        <li><a href="https://www.goodreads.com/book/show/22820968-competitive-programming-3">Competitive Programming 1,2,3 </a> (by Steven Halim, Felix Halim)
-        <li><a href="https://www.goodreads.com/book/show/10361330-html-and-css">HTML and CSS: Design and Build Websites </a>(by Jon Duckett)
-        <li><a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms">Introduction to Algorithms </a> (ongoning..)
-        <li> <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
+        <li> <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio" target ="_blank" >Grokking Algorithms</a>
+        <li><a href="https://www.goodreads.com/book/show/289360.Data_Structures_Using_C_" target ="_blank">Data Structure </a>(by D.S Malik)
+        <li><a href="https://www.goodreads.com/book/show/22820968-competitive-programming-3" target ="_blank">Competitive Programming 1,2,3 </a> (by Steven Halim, Felix Halim)
+        <li><a href="https://www.goodreads.com/book/show/10361330-html-and-css" target ="_blank">HTML and CSS: Design and Build Websites </a>(by Jon Duckett)
+        <li><a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms" target ="_blank">Introduction to Algorithms </a> (ongoning..)
+        <li> <a href="https://www.goodreads.com/book/show/39866497-eloquent-javascript" target ="_blank">Eloquent JavaScript: A Modern Introduction to Programming </a> (To read)
         </ul>
 
 - 💬 Ask me about **anything**
